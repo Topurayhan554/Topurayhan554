@@ -88,15 +88,6 @@ I am a Frontend Developer passionate about building modern, responsive, and high
   </table>
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Topurayhan554&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
 
 
 ---
