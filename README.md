@@ -27,14 +27,14 @@
 ```javascript
 const topuRayhan = {
     role: "Frontend Developer",
-    focus: ["Clean Code", "Modern UI", "Responsive Design"],
+    focus: ["Clean Code", "Modern UI", "Responsive Design", "Problem Solving"],
     currentlyLearning: "Full-Stack Development",
     goal: "Building real-world solutions that matter",
     codePhilosophy: "Simple, Structured, Efficient"
 };
-```
 
-I am a Frontend Developer passionate about building modern, responsive, and high-performance web interfaces. I specialize in creating smooth user experiences with clean, structured, and efficient code. Continuously exploring the latest technologies, I strive to deliver websites that are not only visually appealing but also fast and scalable.
+```
+I am a Frontend Developer passionate about building modern, responsive, and high-performance web interfaces. I specialize in creating smooth user experiences with clean, structured, and efficient code. A keen problem solver, I enjoy tackling challenges and finding practical solutions. Continuously exploring the latest technologies, I strive to deliver websites that are not only visually appealing but also fast and scalable.
 
 ---
 
