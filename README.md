@@ -34,7 +34,7 @@ const topuRayhan = {
 };
 ```
 
-I'm passionate about creating **clean, modern, and responsive** web interfaces. I love turning ideas into smooth user experiences with **simple, structured, and efficient code**. Always exploring new ways to make websites **faster, better, and visually impressive**.
+I am a Frontend Developer passionate about building modern, responsive, and high-performance web interfaces. I specialize in creating smooth user experiences with clean, structured, and efficient code. Continuously exploring the latest technologies, I strive to deliver websites that are not only visually appealing but also fast and scalable.
 
 ---
 
@@ -65,17 +65,27 @@ I'm passionate about creating **clean, modern, and responsive** web interfaces. 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Topurayhan554&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Topurayhan554&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Topurayhan554&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+  <table>
+    <tr>
+      <th>GitHub Stats</th>
+      <th>GitHub Streak</th>
+      <th>Top Languages</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Topurayhan554&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=Topurayhan554&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topurayhan554&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -88,31 +98,6 @@ I'm passionate about creating **clean, modern, and responsive** web interfaces. 
 
 </div>
 
----
-
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Topurayhan554&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Topu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Topurayhan554&theme=tokyo-night&hide_border=true)](https://github.com/Topurayhan554)
-
-</div>
 
 ---
 
