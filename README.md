@@ -5,8 +5,10 @@
 </div>
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+Topu+Rayhan...;Frontend+Developer;Nice+to+meet+u!!&center=true&size=28&duration=3000">
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+Topu+Rayhan...;Frontend+Developer;Nice+to+meet+u!!&center=true&size=28&duration=3000">
 
+</h1>
 
 </div>
 
@@ -88,15 +90,25 @@ I am a Frontend Developer passionate about building modern, responsive, and high
   </table>
 </div>
 
+---
 
+## 🔝 Top Contributed Repo  
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Topurayhan554&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
+<p align="center">
+  <i>“The code you write makes you a programmer. The code you delete makes you a good one. The code you don’t have to write makes you a great one.” </i><br>
+  — <b>– Mario Fusco</b><br>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Write+Clean+Code+✨;Keep+It+Simple+%F0%9F%92%BB;Stay+Curious+%F0%9F%9A%80&center=true&size=22" />
+</p>
 
-![](https://visitcount.itsvg.in/api?id=Topurayhan554&icon=2&color=6)
 
 ⭐️ From [Topurayhan554](https://github.com/Topurayhan554)
 
