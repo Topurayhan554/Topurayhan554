@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Topu+Rayhan;Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+React+%7C+Next.js;Building+Scalable+Web+Solutions+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Topu+Rayhan;Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+React+%7C+Next.js;TypeScript+%7C+Scalable+Solutions+%F0%9F%8C%90" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -31,12 +31,12 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
+```typescript
 const topuRayhan = {
   role        : "Full-Stack Developer 🚀",
   location    : "Bangladesh 🇧🇩",
-  stack       : ["MERN", "Next.js", "REST API"],
-  frontend    : ["React", "Next.js", "TailwindCSS"],
+  stack       : ["MERN", "Next.js", "TypeScript", "REST API"],
+  frontend    : ["React", "Next.js", "TypeScript", "TailwindCSS"],
   backend     : ["Node.js", "Express.js"],
   database    : ["MongoDB", "Firebase"],
   currentWork : "Building full-stack web applications",
@@ -48,7 +48,7 @@ const topuRayhan = {
 ```
 
 - 🔭 Working on **Full-Stack MERN Projects**
-- 🌱 Deepening skills in **REST APIs, Auth & Deployment**
+- 🌱 Deepening skills in **TypeScript, REST APIs, Auth & Deployment**
 - 💡 Passionate about **Clean Architecture & UI/UX**
 - 🤝 Open to **collaborations & freelance work**
 - 📫 Reach me at **topurayhantipu@gmail.com**
@@ -67,6 +67,8 @@ const topuRayhan = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" title="CSS3"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" title="TypeScript"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" title="React"/>
   &nbsp;
@@ -115,6 +117,8 @@ const topuRayhan = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" title="C++"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" title="TypeScript"/>
 </p>
 
 ---
@@ -151,14 +155,14 @@ const topuRayhan = {
 
 | Layer | Technologies |
 |---|---|
-| **Frontend** | React.js, Next.js, JavaScript (ES6+), HTML5, CSS3 |
+| **Frontend** | React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3 |
 | **Styling** | TailwindCSS, Bootstrap, DaisyUI |
 | **Backend** | Node.js, Express.js, REST API |
 | **Database** | MongoDB (Mongoose), Firebase Firestore |
 | **Auth** | Firebase Auth, JWT |
 | **DevTools** | Git, GitHub, VS Code, Postman |
 | **Design** | Figma, Canva |
-| **Languages** | JavaScript, C, C++ |
+| **Languages** | TypeScript, JavaScript, C, C++ |
 
 ---
 
