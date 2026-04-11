@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://i.ibb.co/Z6dwcNCp/1.jpg" width="100%" height="300px" alt="Banner" />
-</div>
 
-<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Topu+Rayhan;Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+React+%7C+Next.js;TypeScript+%7C+Scalable+Solutions+%F0%9F%8C%90" alt="Typing SVG" />
