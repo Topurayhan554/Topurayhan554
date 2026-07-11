@@ -1,7 +1,5 @@
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Topu+Rayhan;Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+React+%7C+Next.js;TypeScript+%7C+Scalable+Solutions+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Topu+Rayhan;Full-Stack+Developer;MERN+Stack+%7C+React+%7C+Next.js;TypeScript+%7C+Scalable+Backend+Systems" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -18,138 +16,108 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Topurayhan554&label=Profile+Views&color=58A6FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Topurayhan554?label=Followers&style=for-the-badge&color=58A6FF&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/Topurayhan554?label=Followers&style=for-the-badge&color=58A6FF" />
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## 🧑‍💻 About Me
+## About Me
+
+I'm a full-stack developer based in Bangladesh, specializing in building **scalable, well-structured backend systems** and modern web applications with the **MERN stack, Next.js, and TypeScript**. I focus on clean architecture, secure authentication, and REST API design that's built to last.
 
 ```typescript
 const topuRayhan = {
-  role        : "Full-Stack Developer 🚀",
-  location    : "Bangladesh 🇧🇩",
-  stack       : ["MERN", "Next.js", "TypeScript", "REST API"],
-  frontend    : ["React", "Next.js", "TypeScript", "TailwindCSS"],
-  backend     : ["Node.js", "Express.js"],
-  database    : ["MongoDB", "Firebase"],
-  currentWork : "Building full-stack web applications",
-  goal        : "Scalable solutions that create real impact",
-  philosophy  : "Simple → Structured → Efficient",
-  funFact     : "I debug with console.log and I'm proud 😄",
-  available   : true
+  role       : "Full-Stack Developer",
+  location   : "Bangladesh",
+  stack      : ["MERN", "Next.js", "TypeScript", "REST API"],
+  frontend   : ["React", "Next.js", "TypeScript", "TailwindCSS"],
+  backend    : ["Node.js", "Express.js"],
+  database   : ["PostgreSQL", "MongoDB", "Firebase"],
+  orm        : ["Prisma", "Mongoose"],
+  payments   : ["Stripe"],
+  focus      : "Clean architecture & scalable REST APIs",
+  philosophy : "Simple → Structured → Efficient",
+  available  : true
 };
 ```
 
-- 🔭 Working on **Full-Stack MERN Projects**
-- 🌱 Deepening skills in **TypeScript, REST APIs, Auth & Deployment**
-- 💡 Passionate about **Clean Architecture & UI/UX**
-- 🤝 Open to **collaborations & freelance work**
+- 🔭 Currently building **full-stack applications** with Node.js, PostgreSQL, and Prisma  
+- 🌱 Deepening expertise in **TypeScript, REST API design, authentication, and deployment**  
+- 💡 Passionate about **clean architecture and thoughtful UI/UX**  
+- 🤝 Open to **collaborations and freelance opportunities**  
 - 📫 Reach me at **topurayhantipu@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack
 
-### 🎨 Frontend
+### Frontend
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/><br>HTML5
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/><br>CSS3
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/><br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/><br>TypeScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/><br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45"/><br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/><br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/><br>Bootstrap
-    </td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/><br>HTML5</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/><br>CSS3</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/><br>TypeScript</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/><br>React</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45"/><br>Next.js</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/><br>Tailwind</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/><br>Bootstrap</td>
   </tr>
 </table>
 
-### ⚙️ Backend
+### Backend
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/><br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45"/><br>Express.js
-    </td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/><br>Node.js</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45"/><br>Express.js</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="45" height="45"/><br>Prisma</td>
   </tr>
 </table>
 
-### 🗄️ Database & Cloud
+### Database & Cloud
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/><br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45"/><br>Firebase
-    </td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/><br>PostgreSQL</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/><br>MongoDB</td>
+    <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45"/><br>Firebase</td>
   </tr>
 </table>
 
-### 💡 Programming Languages
+### Payments
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/><br>C
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/><br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/><br>TypeScript
-    </td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg" width="45" height="45"/><br>Stripe</td>
   </tr>
 </table>
 
-### 🔧 Tools & DevOps
+### Programming Languages
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/><br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/><br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/><br>VS Code
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45"/><br>Figma
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="45" height="45"/><br>Canva
-    </td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/><br>C</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><br>C++</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/><br>TypeScript</td>
   </tr>
 </table>
+
+### Tools & DevOps
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/><br>Git</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/><br>GitHub</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/><br>VS Code</td>
+    <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45"/><br>Figma</td>
+    <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="45" height="45"/><br>Canva</td>
+  </tr>
+</table>
+
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Topurayhan554&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -169,7 +137,7 @@ const topuRayhan = {
 
 ---
 
-## 🔝 Top Contributed Repositories
+## Top Contributed Repositories
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Topurayhan554&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
@@ -177,16 +145,18 @@ const topuRayhan = {
 
 ---
 
-## 🌐 Full-Stack Skills Snapshot
+## Skills Snapshot
 
 | Layer | Technologies |
 |---|---|
 | **Frontend** | React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3 |
 | **Styling** | TailwindCSS, Bootstrap, DaisyUI |
 | **Backend** | Node.js, Express.js, REST API |
-| **Database** | MongoDB (Mongoose), Firebase Firestore |
-| **Auth** | Firebase Auth, JWT |
-| **DevTools** | Git, GitHub, VS Code, Postman |
+| **Database** | PostgreSQL, MongoDB (Mongoose), Firebase Firestore |
+| **ORM** | Prisma, Mongoose |
+| **Auth** | JWT, Firebase Auth |
+| **Payments** | Stripe |
+| **Dev Tools** | Git, GitHub, VS Code, Postman |
 | **Design** | Figma, Canva |
 | **Languages** | TypeScript, JavaScript, C, C++ |
 
@@ -198,7 +168,7 @@ const topuRayhan = {
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Write+Clean+Code+%E2%9C%A8;Build+Full-Stack+Solutions+%F0%9F%8C%90;Stay+Curious+%F0%9F%9A%80;Never+Stop+Learning+%F0%9F%93%9A;Ship+It!+%F0%9F%9A%A2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Write+Clean+Code;Build+Scalable+Systems;Stay+Curious;Never+Stop+Learning" />
 
   <br/>
 
@@ -210,7 +180,7 @@ const topuRayhan = {
 
   <br/>
 
-  ⭐️ From [Topurayhan554](https://github.com/Topurayhan554) — *Thanks for visiting! Have a great day 😊*
+  ⭐️ From [Topurayhan554](https://github.com/Topurayhan554) — *Thanks for visiting!*
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:58A6FF&height=100&section=footer" width="100%"/>
 
